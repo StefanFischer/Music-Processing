@@ -1,0 +1,9 @@
+@book{Mueller15_FMP_SPRINGER,
+  author    = {Meinard M{\"u}ller},
+  title     = {Fundamentals of Music Processing},
+  type      = {Monograph},
+  year      = {2015},
+  isbn      = {978-3-319-21944-8},
+  publisher = {Springer Verlag},
+  url-details={http://www.music-processing.de}
+}
